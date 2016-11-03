@@ -1,0 +1,43 @@
+Cenario de teste 1 (Inserir informações sobre Segurado/Segurp)
+    1.1.  Digitar cep
+    1.2.  Selecionar empresa
+    1.3.  Fornecer dados (cpf, nome, dataNascimento, 
+                            celularDDD, celularNumero,
+                            telefoneDDD, telefoneNumero,
+                            email)
+    1.4.  Clicar em próximo
+    
+    1.5. Resultados esperados:
+        1.5.1. Tela de Dados do veículo
+        1.5.2. Campos apresentados
+            1.5.2.1.  Chassi
+            1.5.2.2.  Ano de Fabricacao
+            1.5.2.3.  Ano do modelo
+            1.5.2.4.  Veiculo
+            1.5.2.5.  Fabricante
+            1.5.2.6.  Codido FIPE
+            1.5.2.7.  Veículo Blindado
+            1.5.2.8.  Uso
+            1.5.2.9.  Categoria Tarifária
+            1.5.2.10. Modalidade
+            1.5.2.11. Fator de Ajuste
+ 
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+Cenario de teste 2 (Inserir informações sobre Veículo)
+    2.1.  Fornecer dados (anoFabricacao, anoModelo, veiculo,
+                            fabricante, codigo FIFE,
+                            veiculoBlindado, uso)
+    2.2.  Clicar em próximo
+    2.3.  Resultados esperados
+    2.4.    2.3.1. Tela de avaliação do Seguro (campos apresentados)
+                2.3.1.1 CPF
+                2.3.1.2 NomeCondutor
+                2.3.1.3 DataNascimento
+                2.3.1.4 Sexo
+                2.3.1.5 EstadoCivil
+                2.3.1.6 Profissao
+                2.3.1.7 TempoHab
+                2.3.1.8 TipoResidencia
+                2.3.1.9 Quantidade de Veículos
+    
